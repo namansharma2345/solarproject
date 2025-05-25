@@ -1,0 +1,1 @@
+export default function Estimator() { return <div>Estimator Component</div>; }
